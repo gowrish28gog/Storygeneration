@@ -28,8 +28,8 @@ The dataset provided by Facebook AI research consists of 300,000 stories accompa
 
 ## Installation
 ```bash
-git clone https://github.com/your-repository.git
-cd your-repository
+git clone https://github.com/gowrish28gog/storygeneration.git
+cd gowrish28gog/storygeneration.git
 pip install -r requirements.txt
 ```
 
